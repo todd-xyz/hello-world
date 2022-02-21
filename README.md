@@ -1,2 +1,2 @@
 # hello-world
-for learning github
+!'m a full stack development engineer.
